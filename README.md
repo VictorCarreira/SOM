@@ -1,18 +1,10 @@
 # SOM
 
-  [![NPM version][npm-image]][npm-url]
-  [![build status][travis-image]][travis-url]
-  [![David deps][david-image]][david-url]
-  [![npm download][download-image]][download-url]
-
 self-organizing map (SOM) / Kohonen network
 
 ## Creator's:
 
 [Targos]:https://github.com/targos
-
-and 
-
 [Philippe]: https://github.com/Fil
 
 ## Installation
@@ -156,9 +148,6 @@ __Arguments__
 ### Thanks to
 
 [Targos]:https://github.com/targos
-
-and 
-
 [Philippe]: https://github.com/Fil
 
 ## License
